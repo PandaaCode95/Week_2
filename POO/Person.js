@@ -61,3 +61,5 @@ console.log(persona4)
 console.log(persona4.calcularIMC())
 console.log(persona3.yearofBirth())
 console.log(persona.printAll(persona))
+
+module.exports.Person = Person;
